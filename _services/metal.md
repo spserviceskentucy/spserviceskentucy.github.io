@@ -18,7 +18,7 @@ At Structural and Process Services, we recognize the importance of precise fabri
 
 Our installation process is equally meticulous, and our team takes great care to ensure that every component is installed to precise specifications. We prioritize safety, and we adhere to all industry-standard safety protocols to ensure the safety of our team members and clients. Our experienced technicians have the skills and knowledge necessary to efficiently and safely erect steel components, ensuring that the project is completed on time and within budget.
 
-![Metal Services](images/projects/welding/3-2.jpg)
+![Metal Services](/images/projects/welding/3-2.jpg)
 
 At Structural and Process Services, we understand that effective structural steel fabrication and erection is essential to the success of any construction project. Our commitment to quality, precision, and safety ensures that our clients receive exceptional workmanship and expertise at every stage of the process. Whether it's a commercial building, bridge, or industrial structure, we have the experience and resources necessary to deliver exceptional results.
 
