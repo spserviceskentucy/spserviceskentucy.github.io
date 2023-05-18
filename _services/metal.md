@@ -6,9 +6,11 @@ weight: 4
 
 This includes the manufacture and installation of steel frames, beams, columns, and trusses that form the backbone of many construction projects, such as commercial buildings, bridges, and industrial structures.
 
-![Metal Services](/images/projects/steel/1-1.jpg)
+![Metal Services](/images/projects/steel/1-6.jpg)
 
 Structural steel fabrication and erection is a critical component of many construction projects. Structural steel components such as frames, beams, columns, and trusses are essential in creating the support structures that form the backbone of many buildings, bridges, and industrial structures. The process involves fabricating steel components to precise specifications, and then erecting them in the designated location.
+
+![Metal Services](/images/projects/steel/1-1.jpg)
 
 At Structural and Process Services, we recognize the importance of precise fabrication and efficient erection in ensuring the success of construction projects. Our team has extensive experience in the fabrication of structural steel components, and we use the latest technologies to manufacture steel components that meet our clients' specifications. We prioritize quality and precision in all our fabrication processes, ensuring that every component is strong, durable, and long-lasting.
 
